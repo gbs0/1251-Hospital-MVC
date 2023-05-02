@@ -1,0 +1,5 @@
+id,name,age,cured,room_id
+1,Walter,30,false,3
+2,Natalia,29,false,2
+3,Natalia,32,false,1
+4,Gabriel,26,false,1
